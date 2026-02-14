@@ -1,0 +1,22 @@
+# 備份檔案
+*_backup_*.md
+*_backup_*.txt
+*.bak
+*.backup
+
+# 臨時檔案
+*.tmp
+*.temp
+.DS_Store
+*.swp
+*.swo
+*~
+
+# 日誌檔案
+*.log
+
+# 敏感資訊
+.env
+.env.local
+secrets/
+credentials/
