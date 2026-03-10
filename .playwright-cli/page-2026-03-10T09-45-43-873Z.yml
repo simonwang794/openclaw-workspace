@@ -1,0 +1,85 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link "跳至內容" [ref=e8] [cursor=pointer]:
+        - /url: "#main"
+        - generic [ref=e9]:
+          - text: 跳至內容
+          - img [ref=e10]
+      - generic [ref=e16]:
+        - link "跳至內容" [ref=e18] [cursor=pointer]:
+          - /url: "#main"
+          - generic [ref=e19]:
+            - text: 跳至內容
+            - img [ref=e20]
+        - navigation [ref=e24]:
+          - link "Notion" [ref=e26] [cursor=pointer]:
+            - /url: https://www.notion.com/product
+            - img [ref=e28]
+          - generic:
+            - separator
+          - button "語言：繁體中文" [ref=e31] [cursor=pointer]:
+            - img [ref=e32]
+            - text: 語言：繁體中文
+            - img [ref=e34]
+        - main [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - img "S" [ref=e41]:
+                - generic [ref=e42]: S
+              - generic [ref=e43]: 請先登入，以在 Simon Notion 中查看此頁面
+              - generic [ref=e45]:
+                - generic [ref=e46]:
+                  - button "使用 Google 帳號登入" [ref=e47] [cursor=pointer]:
+                    - generic [ref=e48]:
+                      - img [ref=e49]
+                      - generic [ref=e55]: 使用 Google 帳號登入
+                  - button "使用 Apple 帳號登入" [ref=e56] [cursor=pointer]:
+                    - generic [ref=e57]:
+                      - img [ref=e58]
+                      - generic [ref=e60]: 使用 Apple 帳號登入
+                  - button "使用 Microsoft 帳號登入" [ref=e61] [cursor=pointer]:
+                    - generic [ref=e62]:
+                      - img [ref=e63]
+                      - generic [ref=e69]: 使用 Microsoft 帳號登入
+                  - button "使用通行金鑰登入" [ref=e70] [cursor=pointer]:
+                    - generic [ref=e71]:
+                      - img [ref=e72]
+                      - generic [ref=e74]: 使用通行金鑰登入
+                  - button "單一登入 (SSO)" [ref=e75] [cursor=pointer]:
+                    - generic [ref=e76]:
+                      - img [ref=e77]
+                      - generic [ref=e80]: 單一登入 (SSO)
+                - generic [ref=e82]:
+                  - generic:
+                    - separator
+                  - generic [ref=e83]:
+                    - generic [ref=e84]: 電子郵件
+                    - textbox "電子郵件" [active] [ref=e86]:
+                      - /placeholder: 輸入你的電子郵件…
+                    - generic [ref=e87]: 使用組織電子郵件輕鬆與團隊成員協作
+                    - generic:
+                      - textbox
+                    - button "繼續" [ref=e88] [cursor=pointer]:
+                      - generic [ref=e89]: 繼續
+            - paragraph [ref=e91]:
+              - text: 繼續即代表你了解並同意
+              - link "條款與細則" [ref=e92] [cursor=pointer]:
+                - /url: https://www.notion.so/notion/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac
+              - text: 和
+              - link "隱私政策" [ref=e93] [cursor=pointer]:
+                - /url: https://www.notion.com/trust/privacy-policy
+            - generic [ref=e94]:
+              - link "什麼是 Notion？" [ref=e96] [cursor=pointer]:
+                - /url: https://www.notion.com/product
+                - img [ref=e97]
+                - text: 什麼是 Notion？
+              - generic [ref=e99]: ·
+              - button "傳送訊息給支援團隊" [ref=e101] [cursor=pointer]
+              - generic [ref=e102]: ·
+              - link "條款" [ref=e104] [cursor=pointer]:
+                - /url: https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac
+    - status [ref=e12]
+    - alert [ref=e13]
+  - iframe [ref=e105]:
+    

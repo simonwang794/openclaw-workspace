@@ -1,0 +1,494 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e107]:
+      - link "跳至內容" [ref=e109] [cursor=pointer]:
+        - /url: "#main"
+        - generic [ref=e110]:
+          - text: 跳至內容
+          - img [ref=e111]
+      - navigation "側邊欄":
+        - generic [ref=e113]:
+          - generic [ref=e115]:
+            - button "Simon Notion 關閉側邊欄 新頁面 更多選項" [ref=e120] [cursor=pointer]:
+              - generic [ref=e131]: Simon Notion
+              - generic [ref=e133]:
+                - button "關閉側邊欄" [ref=e135]:
+                  - img [ref=e136]
+                - generic [ref=e139]:
+                  - button "新頁面" [ref=e141]:
+                    - img [ref=e142]
+                  - button "更多選項" [ref=e147]:
+                    - img [ref=e148]
+            - generic [ref=e150] [cursor=pointer]:
+              - button "搜尋" [ref=e152]:
+                - generic [ref=e153]:
+                  - img [ref=e155]
+                  - generic [ref=e157]: 搜尋
+              - link "首頁" [ref=e159]:
+                - /url: /877c1f1b8cb24fd19a5f33a4f86c2eb8?pvs=16
+                - generic [ref=e160]:
+                  - img [ref=e162]
+                  - generic [ref=e164]: 首頁
+              - link "Notion AI" [ref=e166]:
+                - /url: /ai
+                - generic [ref=e167]:
+                  - img [ref=e170]
+                  - generic [ref=e174]: Notion AI
+              - button "收件匣" [ref=e176]:
+                - generic [ref=e177]:
+                  - img [ref=e179]
+                  - generic [ref=e181]: 收件匣
+              - button "資料庫" [ref=e186]:
+                - generic [ref=e187]:
+                  - img [ref=e190]
+                  - generic [ref=e192]: 資料庫
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e201] [cursor=pointer]:
+                  - button "最愛" [expanded] [ref=e202]:
+                    - generic [ref=e203]: 最愛
+                    - img [ref=e204]
+                  - tree "最愛" [ref=e207]:
+                    - generic [ref=e209]:
+                      - treeitem "Moneybook" [ref=e211]:
+                        - generic [ref=e212]:
+                          - img "變更頁面圖示" [ref=e220]: 📊
+                          - generic [ref=e222]: Moneybook
+                      - treeitem "信用卡帳單管理儀表板" [ref=e224]:
+                        - generic [ref=e225]:
+                          - img "變更頁面圖示" [ref=e233]: 🟦
+                          - generic [ref=e235]: 信用卡帳單管理儀表板
+                      - treeitem "私人進銷貨" [ref=e237]:
+                        - generic [ref=e238]:
+                          - img "變更頁面圖示" [ref=e246]: 📦
+                          - generic [ref=e248]: 私人進銷貨
+                - generic [ref=e250] [cursor=pointer]:
+                  - button "代理程式 測試版" [expanded] [ref=e251]:
+                    - generic [ref=e252]:
+                      - text: 代理程式
+                      - link "測試版" [ref=e256]:
+                        - /url: https://www.notion.com/help/custom-agent
+                        - generic [ref=e257]: 測試版
+                    - img [ref=e258]
+                  - list "代理程式 測試版" [ref=e262]:
+                    - generic [ref=e263]:
+                      - link "Email Assistant 代理程式選單" [ref=e266]:
+                        - /url: /agent/3152895bb1ee81778641009278564df1
+                        - generic [ref=e267]:
+                          - generic [ref=e275]: Email Assistant
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button "代理程式選單":
+                                    - img
+                      - link "任务分流工具 代理程式選單" [ref=e278]:
+                        - /url: /agent/3132895bb1ee8079b8ff00925afbbb55
+                        - generic [ref=e279]:
+                          - generic [ref=e287]: 任务分流工具
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button "代理程式選單":
+                                    - img
+                      - link "晨间早报 代理程式選單" [ref=e290]:
+                        - /url: /agent/3132895bb1ee80f19e610092a5251386
+                        - generic [ref=e291]:
+                          - generic [ref=e299]: 晨间早报
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button "代理程式選單":
+                                    - img
+                    - button "更多" [ref=e301]:
+                      - generic [ref=e302]:
+                        - img [ref=e304]
+                        - generic [ref=e306]: 更多
+                - generic [ref=e309] [cursor=pointer]:
+                  - button "私人" [expanded] [ref=e310]:
+                    - generic [ref=e311]: 私人
+                    - img [ref=e312]
+                  - tree "私人" [ref=e315]:
+                    - generic [ref=e317]:
+                      - treeitem "進貨／銷售系統主頁" [ref=e319]:
+                        - generic [ref=e320]:
+                          - img "變更頁面圖示" [ref=e328]: 📌
+                          - generic [ref=e330]: 進貨／銷售系統主頁
+                      - treeitem "訂閱制管理儀表板 Ver 1.0" [ref=e332]:
+                        - generic [ref=e333]:
+                          - img "變更頁面圖示" [ref=e341]: 🍿
+                          - generic [ref=e343]: 訂閱制管理儀表板 Ver 1.0
+                      - treeitem "任務追蹤工具" [ref=e345]:
+                        - generic [ref=e346]:
+                          - img "變更頁面圖示" [ref=e354]: 📋
+                          - generic [ref=e356]: 任務追蹤工具
+                      - treeitem "📋 任務追蹤工具" [ref=e358]:
+                        - generic [ref=e359]:
+                          - img "變更頁面圖示" [ref=e367]: 📋
+                          - generic [ref=e369]: 📋 任務追蹤工具
+                      - treeitem "毒品案件 — 汪家賢撤銷緩起訴處分" [ref=e371]:
+                        - generic [ref=e372]:
+                          - img "變更頁面圖示" [ref=e380]: ⚖️
+                          - generic [ref=e382]: 毒品案件 — 汪家賢撤銷緩起訴處分
+                      - treeitem "電腦自動化（含 API）功能筆記" [ref=e384]:
+                        - generic [ref=e385]:
+                          - img "變更頁面圖示" [ref=e393]: 🤖
+                          - generic [ref=e395]: 電腦自動化（含 API）功能筆記
+                      - treeitem "七騎士 Re:BIRTH 遊戲資料庫" [ref=e397]:
+                        - generic [ref=e398]:
+                          - img "變更頁面圖示" [ref=e406]: 🎮
+                          - generic [ref=e408]: 七騎士 Re:BIRTH 遊戲資料庫
+                      - treeitem "信用卡帳單管理儀表板｜新版排版測試" [ref=e410]:
+                        - generic [ref=e411]:
+                          - img "變更頁面圖示" [ref=e419]: 🧪
+                          - generic [ref=e421]: 信用卡帳單管理儀表板｜新版排版測試
+                      - treeitem "Moneybook" [ref=e423]:
+                        - generic [ref=e424]:
+                          - img "變更頁面圖示" [ref=e432]: 📊
+                          - generic [ref=e434]: Moneybook
+                - generic [ref=e436] [cursor=pointer]:
+                  - button "Notion 應用程式" [expanded] [ref=e437]:
+                    - generic [ref=e438]: Notion 應用程式
+                    - img [ref=e439]
+                  - generic [ref=e443]:
+                    - button "Notion 郵件" [ref=e447]:
+                      - generic [ref=e448]:
+                        - img [ref=e450]
+                        - generic [ref=e452]: Notion 郵件
+                    - button "Notion 日曆" [ref=e457]:
+                      - generic [ref=e458]:
+                        - img [ref=e460]
+                        - generic [ref=e462]: Notion 日曆
+                    - button "桌面版 Notion" [ref=e466]:
+                      - generic [ref=e467]:
+                        - img [ref=e469]
+                        - generic [ref=e471]: 桌面版 Notion
+                - generic [ref=e473] [cursor=pointer]:
+                  - button "工作空間" [expanded] [ref=e474]:
+                    - generic [ref=e475]: 工作空間
+                    - img [ref=e476]
+                  - tree "工作空間" [ref=e479]:
+                    - generic [ref=e481]:
+                      - treeitem "個人貸款還款紀錄" [ref=e483]:
+                        - generic [ref=e484]:
+                          - img "變更頁面圖示" [ref=e492]: ✴️
+                          - generic [ref=e494]: 個人貸款還款紀錄
+                      - treeitem "信用卡帳單管理儀表板" [ref=e496]:
+                        - generic [ref=e497]:
+                          - img "變更頁面圖示" [ref=e505]: 🟦
+                          - generic [ref=e507]: 信用卡帳單管理儀表板
+                      - treeitem "AI 對話備份" [ref=e509]:
+                        - generic [ref=e510]:
+                          - img "變更頁面圖示" [ref=e518]: 🗄️
+                          - generic [ref=e520]: AI 對話備份
+                      - treeitem "私人進銷貨" [ref=e522]:
+                        - generic [ref=e523]:
+                          - img "變更頁面圖示" [ref=e531]: 📦
+                          - generic [ref=e533]: 私人進銷貨
+                      - treeitem "數位軟體＆訂閱服務管理系統｜模版範本" [ref=e535]:
+                        - generic [ref=e536]:
+                          - img "變更頁面圖示" [ref=e544]: 💻
+                          - generic [ref=e546]: 數位軟體＆訂閱服務管理系統｜模版範本
+                      - treeitem "歡迎使用Simon Notion！" [ref=e548]:
+                        - generic [ref=e549]:
+                          - img "變更頁面圖示" [ref=e555]:
+                            - img [ref=e556]
+                          - generic [ref=e559]: 歡迎使用Simon Notion！
+                      - treeitem "個人財務追蹤器" [ref=e561]:
+                        - generic [ref=e562]:
+                          - img "變更頁面圖示" [ref=e570]: 💰
+                          - generic [ref=e572]: 個人財務追蹤器
+              - generic [ref=e573]:
+                - button "設定" [ref=e575] [cursor=pointer]:
+                  - generic [ref=e576]:
+                    - img [ref=e578]
+                    - generic [ref=e581]: 設定
+                - button "Marketplace" [ref=e583] [cursor=pointer]:
+                  - generic [ref=e584]:
+                    - img [ref=e586]
+                    - generic [ref=e588]: Marketplace
+                - button "垃圾桶" [ref=e592] [cursor=pointer]:
+                  - generic [ref=e593]:
+                    - img [ref=e595]
+                    - generic [ref=e598]: 垃圾桶
+            - generic [ref=e604]:
+              - button "最新消息、幫助、聯絡等…" [ref=e606] [cursor=pointer]:
+                - img [ref=e607]
+              - generic:
+                - img "全新"
+          - separator "使用左右方向鍵調整尺寸" [ref=e612]
+      - generic [ref=e613]:
+        - banner [ref=e614]:
+          - generic [ref=e617]:
+            - button "✴️ 個人貸款還款紀錄" [ref=e619] [cursor=pointer]:
+              - generic [ref=e622]: ✴️
+              - generic [ref=e623]: 個人貸款還款紀錄
+            - generic [ref=e625]:
+              - button "分享" [ref=e628] [cursor=pointer]:
+                - img [ref=e629]
+                - text: 分享
+                - img [ref=e632]
+              - button "加入最愛" [ref=e635] [cursor=pointer]:
+                - img [ref=e636]
+              - button "動作" [ref=e640] [cursor=pointer]:
+                - img [ref=e641]
+        - main [ref=e643]:
+          - group [ref=e657]:
+            - generic [ref=e659]:
+              - generic [ref=e662]:
+                - generic:
+                  - button "✴️ 變更頁面圖示" [ref=e664] [cursor=pointer]:
+                    - generic [ref=e666]: ✴️
+                  - generic [ref=e667]:
+                    - button "新增封面":
+                      - img
+                      - text: 新增封面
+                    - generic [ref=e668]:
+                      - button "新增驗證":
+                        - img
+                        - text: 新增驗證
+                    - button "新增留言":
+                      - img
+                      - text: 新增留言
+                - textbox [ref=e672]:
+                  - /placeholder: 新頁面
+              - generic [ref=e674]:
+                - generic [ref=e676]:
+                  - generic [ref=e679]:
+                    - generic [ref=e683]:
+                      - textbox [ref=e684]:
+                        - /placeholder: 新資料庫
+                      - button "新增瀏覽模式" [ref=e689] [cursor=pointer]:
+                        - img [ref=e690]
+                    - generic [ref=e693]:
+                      - button "篩選" [ref=e697] [cursor=pointer]:
+                        - img [ref=e698]
+                      - button "排序" [ref=e703] [cursor=pointer]:
+                        - img [ref=e704]
+                      - button "建立或檢視自動化" [ref=e707] [cursor=pointer]:
+                        - img [ref=e708]
+                      - button "搜尋" [ref=e711] [cursor=pointer]:
+                        - img [ref=e712]
+                      - link "以完整頁面打開" [ref=e715] [cursor=pointer]:
+                        - /url: /simonwangtw/3072895bb1ee8184bf65d36aaffac876?v=3072895bb1ee81aa98a4000cf3ad126b&pvs=23
+                        - img [ref=e716]
+                      - button "設定" [ref=e721] [cursor=pointer]:
+                        - img [ref=e722]
+                      - generic [ref=e726]:
+                        - button "新建" [ref=e727] [cursor=pointer]
+                        - button "更多新增選項" [ref=e728] [cursor=pointer]:
+                          - img [ref=e729]
+                  - generic [ref=e737]:
+                    - generic [ref=e743]:
+                      - checkbox [ref=e750] [cursor=pointer]
+                      - generic [ref=e752]:
+                        - button "名稱" [ref=e757] [cursor=pointer]:
+                          - generic [ref=e758]:
+                            - img [ref=e764]
+                            - generic [ref=e766]: 名稱
+                        - button "利息起始日" [ref=e772] [cursor=pointer]:
+                          - generic [ref=e773]:
+                            - img [ref=e779]
+                            - generic [ref=e781]: 利息起始日
+                        - button "利息截止日" [ref=e787] [cursor=pointer]:
+                          - generic [ref=e788]:
+                            - img [ref=e794]
+                            - generic [ref=e796]: 利息截止日
+                        - button "計息天數" [ref=e802] [cursor=pointer]:
+                          - generic [ref=e803]:
+                            - img [ref=e809]
+                            - generic [ref=e811]: 計息天數
+                        - button "利息還款日" [ref=e817] [cursor=pointer]:
+                          - generic [ref=e818]:
+                            - img [ref=e824]
+                            - generic [ref=e826]: 利息還款日
+                        - button "本金" [ref=e832] [cursor=pointer]:
+                          - generic [ref=e833]:
+                            - img [ref=e839]
+                            - generic [ref=e841]: 本金
+                        - button "年利率" [ref=e847] [cursor=pointer]:
+                          - generic [ref=e848]:
+                            - img [ref=e854]
+                            - generic [ref=e856]: 年利率
+                        - button "貸款期數" [ref=e862] [cursor=pointer]:
+                          - generic [ref=e863]:
+                            - img [ref=e869]
+                            - generic [ref=e871]: 貸款期數
+                        - button "每月還付本金" [ref=e878] [cursor=pointer]:
+                          - generic [ref=e879]:
+                            - img [ref=e885]
+                            - generic [ref=e887]: 每月還付本金
+                        - button "每月利息" [ref=e893] [cursor=pointer]:
+                          - generic [ref=e894]:
+                            - img [ref=e900]
+                            - generic [ref=e902]: 每月利息
+                        - button "還款總額" [ref=e908] [cursor=pointer]:
+                          - generic [ref=e909]:
+                            - img [ref=e915]
+                            - generic [ref=e917]: 還款總額
+                        - button "剩餘本金" [ref=e923] [cursor=pointer]:
+                          - generic [ref=e924]:
+                            - img [ref=e930]
+                            - generic [ref=e932]: 剩餘本金
+                        - button "本金還款進度" [ref=e938] [cursor=pointer]:
+                          - generic [ref=e939]:
+                            - img [ref=e945]
+                            - generic [ref=e947]: 本金還款進度
+                        - button "借款銀行" [ref=e953] [cursor=pointer]:
+                          - generic [ref=e954]:
+                            - img [ref=e960]
+                            - generic [ref=e962]: 借款銀行
+                        - button "到期日" [ref=e968] [cursor=pointer]:
+                          - generic [ref=e969]:
+                            - img [ref=e975]
+                            - generic [ref=e977]: 到期日
+                        - button "帳號" [ref=e983] [cursor=pointer]:
+                          - generic [ref=e984]:
+                            - img [ref=e990]
+                            - generic [ref=e992]: 帳號
+                        - button "撥款日" [ref=e998] [cursor=pointer]:
+                          - generic [ref=e999]:
+                            - img [ref=e1005]
+                            - generic [ref=e1007]: 撥款日
+                        - button "總費用年百分率" [ref=e1013] [cursor=pointer]:
+                          - generic [ref=e1014]:
+                            - img [ref=e1020]
+                            - generic [ref=e1022]: 總費用年百分率
+                        - button "開辦費" [ref=e1028] [cursor=pointer]:
+                          - generic [ref=e1029]:
+                            - img [ref=e1035]
+                            - generic [ref=e1037]: 開辦費
+                      - generic [ref=e1039]:
+                        - button [ref=e1044] [cursor=pointer]:
+                          - img [ref=e1045]
+                        - button [ref=e1048] [cursor=pointer]:
+                          - img [ref=e1050]
+                    - generic [ref=e1057]:
+                      - checkbox [ref=e1064] [cursor=pointer]
+                      - button "中國信託個人信貸 (1325)" [ref=e1067] [cursor=pointer]:
+                        - generic [ref=e1069]:
+                          - button [ref=e1071]
+                          - generic [ref=e1074]: 中國信託個人信貸 (1325)
+                      - button "2026年1月17日" [ref=e1077] [cursor=pointer]:
+                        - generic [ref=e1079]: 2026年1月17日
+                      - button "2026年2月23日" [ref=e1082] [cursor=pointer]:
+                        - generic [ref=e1084]: 2026年2月23日
+                      - button "37" [ref=e1087] [cursor=pointer]:
+                        - generic [ref=e1092]: "37"
+                      - button "2026年2月23日" [ref=e1095] [cursor=pointer]:
+                        - generic [ref=e1097]: 2026年2月23日
+                      - button "$1,170,000" [ref=e1100] [cursor=pointer]:
+                        - generic [ref=e1103]: $1,170,000
+                      - button "5.00%" [ref=e1106] [cursor=pointer]:
+                        - generic [ref=e1109]: 5.00%
+                      - button "84" [ref=e1112] [cursor=pointer]:
+                        - generic [ref=e1115]: "84"
+                      - button "$16,537" [ref=e1118] [cursor=pointer]:
+                        - generic [ref=e1121]: $16,537
+                      - button "$5,846" [ref=e1124] [cursor=pointer]:
+                        - generic [ref=e1129]: $5,846
+                      - button "$22,383" [ref=e1132] [cursor=pointer]:
+                        - generic [ref=e1137]: $22,383
+                    - button "新頁面" [ref=e1141] [cursor=pointer]:
+                      - generic [ref=e1142]:
+                        - img [ref=e1143]
+                        - text: 新頁面
+                    - generic [ref=e1152]:
+                      - generic [ref=e1154]:
+                        - generic:
+                          - button
+                      - generic [ref=e1156]:
+                        - generic:
+                          - button
+                      - generic [ref=e1158]:
+                        - generic:
+                          - button
+                      - generic [ref=e1160]:
+                        - generic:
+                          - button
+                      - generic [ref=e1162]:
+                        - generic:
+                          - button
+                      - generic [ref=e1164]:
+                        - generic:
+                          - button
+                      - generic [ref=e1166]:
+                        - generic:
+                          - button
+                      - generic [ref=e1168]:
+                        - generic:
+                          - button
+                      - generic [ref=e1170]:
+                        - generic:
+                          - button
+                      - button "總和 $5,846" [ref=e1174] [cursor=pointer]:
+                        - generic [ref=e1175]:
+                          - generic [ref=e1176]: 總和
+                          - generic [ref=e1177]: $5,846
+                      - generic [ref=e1179]:
+                        - generic:
+                          - button
+                      - generic [ref=e1181]:
+                        - generic:
+                          - button
+                      - generic [ref=e1183]:
+                        - generic:
+                          - button
+                      - generic [ref=e1185]:
+                        - generic:
+                          - button
+                      - generic [ref=e1187]:
+                        - generic:
+                          - button
+                      - generic [ref=e1189]:
+                        - generic:
+                          - button
+                      - generic [ref=e1191]:
+                        - generic:
+                          - button
+                      - generic [ref=e1193]:
+                        - generic:
+                          - button
+                      - generic [ref=e1195]:
+                        - generic:
+                          - button
+                - textbox [ref=e1199]:
+                  - /placeholder: " "
+                - link "個人信貸" [ref=e1202] [cursor=pointer]:
+                  - /url: /simonwangtw/ebd0577eb0e64b42bef020c9aada2a42?v=c1d3952e3e614c9ab7907e2d6084aff6&pvs=25
+                  - generic [ref=e1205]:
+                    - button [ref=e1208]:
+                      - img [ref=e1209]
+                    - generic [ref=e1212]: 個人信貸
+                - link "💳 貸款繳息明細（CTBC）" [ref=e1215] [cursor=pointer]:
+                  - /url: /simonwangtw/cad8dcfb433b4007bdbe5fb79f15d1a7?v=4d2a9848ce7f45329b593e5008491063&pvs=25
+                  - generic [ref=e1218]:
+                    - button "💳" [ref=e1221]:
+                      - generic [ref=e1223]: 💳
+                    - generic [ref=e1225]: 貸款繳息明細（CTBC）
+        - region [ref=e1227]
+      - button "ai" [ref=e1232] [cursor=pointer]:
+        - generic [ref=e1234]:
+          - img "Notion AI face" [ref=e1238]
+          - img "scarf accessory"
+    - dialog [ref=e1241]:
+      - generic [ref=e1242]:
+        - generic [ref=e1243]: 要在 Notion 桌面版應用程式中打開嗎？
+        - button "關閉" [ref=e1244] [cursor=pointer]:
+          - img [ref=e1245]
+      - button "沒有應用程式嗎？歡迎下載" [ref=e1248] [cursor=pointer]:
+        - img [ref=e1249]
+        - generic [ref=e1252]: 沒有應用程式嗎？歡迎下載
+      - generic [ref=e1253]:
+        - generic [ref=e1254]:
+          - generic [ref=e1255]:
+            - img [ref=e1257]
+            - checkbox [checked] [ref=e1259] [cursor=pointer]
+          - generic [ref=e1260]: 一律在應用程式中開啟
+        - button "在應用程式中開啟" [ref=e1261] [cursor=pointer]
+    - status [ref=e104]
+    - alert [ref=e105]
+  - iframe [ref=e106]:
+    

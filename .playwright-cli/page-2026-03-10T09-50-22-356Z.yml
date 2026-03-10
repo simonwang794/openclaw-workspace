@@ -1,0 +1,1012 @@
+- generic [ref=e4]:
+  - generic [ref=e6]:
+    - link "跳至內容" [ref=e8] [cursor=pointer]:
+      - /url: "#main"
+      - generic [ref=e9]:
+        - text: 跳至內容
+        - img [ref=e10]
+    - navigation "側邊欄":
+      - generic [ref=e89]:
+        - generic [ref=e91]:
+          - button "Simon Notion 關閉側邊欄 新頁面 更多選項" [ref=e96] [cursor=pointer]:
+            - generic [ref=e107]: Simon Notion
+            - generic [ref=e109]:
+              - button "關閉側邊欄" [ref=e111]:
+                - img [ref=e112]
+              - generic [ref=e115]:
+                - button "新頁面" [ref=e117]:
+                  - img [ref=e118]
+                - button "更多選項" [ref=e123]:
+                  - img [ref=e124]
+          - generic [ref=e126] [cursor=pointer]:
+            - button "搜尋" [ref=e128]:
+              - generic [ref=e129]:
+                - img [ref=e131]
+                - generic [ref=e133]: 搜尋
+            - link "首頁" [ref=e135]:
+              - /url: /877c1f1b8cb24fd19a5f33a4f86c2eb8?pvs=16
+              - generic [ref=e136]:
+                - img [ref=e138]
+                - generic [ref=e140]: 首頁
+            - link "Notion AI" [ref=e142]:
+              - /url: /ai
+              - generic [ref=e143]:
+                - img [ref=e146]
+                - generic [ref=e150]: Notion AI
+            - button "收件匣" [ref=e152]:
+              - generic [ref=e153]:
+                - img [ref=e155]
+                - generic [ref=e157]: 收件匣
+            - button "資料庫" [ref=e162]:
+              - generic [ref=e163]:
+                - img [ref=e166]
+                - generic [ref=e168]: 資料庫
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e177] [cursor=pointer]:
+                - button "最愛" [expanded] [ref=e178]:
+                  - generic [ref=e179]: 最愛
+                  - img [ref=e180]
+                - tree "最愛" [ref=e183]:
+                  - generic [ref=e185]:
+                    - treeitem "Moneybook" [ref=e187]:
+                      - generic [ref=e188]:
+                        - img "變更頁面圖示" [ref=e196]: 📊
+                        - generic [ref=e198]: Moneybook
+                    - treeitem "信用卡帳單管理儀表板" [ref=e200]:
+                      - generic [ref=e201]:
+                        - img "變更頁面圖示" [ref=e209]: 🟦
+                        - generic [ref=e211]: 信用卡帳單管理儀表板
+                    - treeitem "私人進銷貨" [ref=e213]:
+                      - generic [ref=e214]:
+                        - img "變更頁面圖示" [ref=e222]: 📦
+                        - generic [ref=e224]: 私人進銷貨
+              - generic [ref=e226] [cursor=pointer]:
+                - button "代理程式 測試版" [expanded] [ref=e227]:
+                  - generic [ref=e228]:
+                    - text: 代理程式
+                    - link "測試版" [ref=e232]:
+                      - /url: https://www.notion.com/help/custom-agent
+                      - generic [ref=e233]: 測試版
+                  - img [ref=e234]
+                - list "代理程式 測試版" [ref=e238]:
+                  - generic [ref=e239]:
+                    - link "Email Assistant 代理程式選單" [ref=e242]:
+                      - /url: /agent/3152895bb1ee81778641009278564df1
+                      - generic [ref=e243]:
+                        - generic [ref=e251]: Email Assistant
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "代理程式選單":
+                                  - img
+                    - link "任务分流工具 代理程式選單" [ref=e254]:
+                      - /url: /agent/3132895bb1ee8079b8ff00925afbbb55
+                      - generic [ref=e255]:
+                        - generic [ref=e263]: 任务分流工具
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "代理程式選單":
+                                  - img
+                    - link "晨间早报 代理程式選單" [ref=e266]:
+                      - /url: /agent/3132895bb1ee80f19e610092a5251386
+                      - generic [ref=e267]:
+                        - generic [ref=e275]: 晨间早报
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "代理程式選單":
+                                  - img
+                  - button "更多" [ref=e277]:
+                    - generic [ref=e278]:
+                      - img [ref=e280]
+                      - generic [ref=e282]: 更多
+              - generic [ref=e285] [cursor=pointer]:
+                - button "私人" [expanded] [ref=e286]:
+                  - generic [ref=e287]: 私人
+                  - img [ref=e288]
+                - tree "私人" [ref=e291]:
+                  - generic [ref=e293]:
+                    - treeitem "進貨／銷售系統主頁" [ref=e295]:
+                      - generic [ref=e296]:
+                        - img "變更頁面圖示" [ref=e304]: 📌
+                        - generic [ref=e306]: 進貨／銷售系統主頁
+                    - treeitem "訂閱制管理儀表板 Ver 1.0" [ref=e308]:
+                      - generic [ref=e309]:
+                        - img "變更頁面圖示" [ref=e317]: 🍿
+                        - generic [ref=e319]: 訂閱制管理儀表板 Ver 1.0
+                    - treeitem "任務追蹤工具" [ref=e321]:
+                      - generic [ref=e322]:
+                        - img "變更頁面圖示" [ref=e330]: 📋
+                        - generic [ref=e332]: 任務追蹤工具
+                    - treeitem "📋 任務追蹤工具" [ref=e334]:
+                      - generic [ref=e335]:
+                        - img "變更頁面圖示" [ref=e343]: 📋
+                        - generic [ref=e345]: 📋 任務追蹤工具
+                    - treeitem "毒品案件 — 汪家賢撤銷緩起訴處分" [ref=e347]:
+                      - generic [ref=e348]:
+                        - img "變更頁面圖示" [ref=e356]: ⚖️
+                        - generic [ref=e358]: 毒品案件 — 汪家賢撤銷緩起訴處分
+                    - treeitem "電腦自動化（含 API）功能筆記" [ref=e360]:
+                      - generic [ref=e361]:
+                        - img "變更頁面圖示" [ref=e369]: 🤖
+                        - generic [ref=e371]: 電腦自動化（含 API）功能筆記
+                    - treeitem "七騎士 Re:BIRTH 遊戲資料庫" [ref=e373]:
+                      - generic [ref=e374]:
+                        - img "變更頁面圖示" [ref=e382]: 🎮
+                        - generic [ref=e384]: 七騎士 Re:BIRTH 遊戲資料庫
+                    - treeitem "信用卡帳單管理儀表板｜新版排版測試" [ref=e386]:
+                      - generic [ref=e387]:
+                        - img "變更頁面圖示" [ref=e395]: 🧪
+                        - generic [ref=e397]: 信用卡帳單管理儀表板｜新版排版測試
+                    - treeitem "Moneybook" [ref=e399]:
+                      - generic [ref=e400]:
+                        - img "變更頁面圖示" [ref=e408]: 📊
+                        - generic [ref=e410]: Moneybook
+              - generic [ref=e412] [cursor=pointer]:
+                - button "Notion 應用程式" [expanded] [ref=e413]:
+                  - generic [ref=e414]: Notion 應用程式
+                  - img [ref=e415]
+                - generic [ref=e419]:
+                  - button "Notion 郵件" [ref=e423]:
+                    - generic [ref=e424]:
+                      - img [ref=e426]
+                      - generic [ref=e428]: Notion 郵件
+                  - button "Notion 日曆" [ref=e433]:
+                    - generic [ref=e434]:
+                      - img [ref=e436]
+                      - generic [ref=e438]: Notion 日曆
+                  - button "桌面版 Notion" [ref=e442]:
+                    - generic [ref=e443]:
+                      - img [ref=e445]
+                      - generic [ref=e447]: 桌面版 Notion
+              - generic [ref=e449] [cursor=pointer]:
+                - button "工作空間" [expanded] [ref=e450]:
+                  - generic [ref=e451]: 工作空間
+                  - img [ref=e452]
+                - tree "工作空間" [ref=e455]:
+                  - generic [ref=e457]:
+                    - treeitem "個人貸款還款紀錄" [ref=e459]:
+                      - generic [ref=e460]:
+                        - img "變更頁面圖示" [ref=e468]: ✴️
+                        - generic [ref=e470]: 個人貸款還款紀錄
+                    - treeitem "信用卡帳單管理儀表板" [ref=e472]:
+                      - generic [ref=e473]:
+                        - img "變更頁面圖示" [ref=e481]: 🟦
+                        - generic [ref=e483]: 信用卡帳單管理儀表板
+                    - treeitem "AI 對話備份" [ref=e485]:
+                      - generic [ref=e486]:
+                        - img "變更頁面圖示" [ref=e494]: 🗄️
+                        - generic [ref=e496]: AI 對話備份
+                    - treeitem "私人進銷貨" [ref=e498]:
+                      - generic [ref=e499]:
+                        - img "變更頁面圖示" [ref=e507]: 📦
+                        - generic [ref=e509]: 私人進銷貨
+                    - treeitem "數位軟體＆訂閱服務管理系統｜模版範本" [ref=e511]:
+                      - generic [ref=e512]:
+                        - img "變更頁面圖示" [ref=e520]: 💻
+                        - generic [ref=e522]: 數位軟體＆訂閱服務管理系統｜模版範本
+                    - treeitem "歡迎使用Simon Notion！" [ref=e524]:
+                      - generic [ref=e525]:
+                        - img "變更頁面圖示" [ref=e531]:
+                          - img [ref=e532]
+                        - generic [ref=e535]: 歡迎使用Simon Notion！
+                    - treeitem "個人財務追蹤器" [ref=e537]:
+                      - generic [ref=e538]:
+                        - img "變更頁面圖示" [ref=e546]: 💰
+                        - generic [ref=e548]: 個人財務追蹤器
+            - generic [ref=e549]:
+              - button "設定" [ref=e551] [cursor=pointer]:
+                - generic [ref=e552]:
+                  - img [ref=e554]
+                  - generic [ref=e557]: 設定
+              - button "Marketplace" [ref=e559] [cursor=pointer]:
+                - generic [ref=e560]:
+                  - img [ref=e562]
+                  - generic [ref=e564]: Marketplace
+              - button "垃圾桶" [ref=e568] [cursor=pointer]:
+                - generic [ref=e569]:
+                  - img [ref=e571]
+                  - generic [ref=e574]: 垃圾桶
+          - generic [ref=e580]:
+            - button "最新消息、幫助、聯絡等…" [ref=e582] [cursor=pointer]:
+              - img [ref=e583]
+            - generic:
+              - img "全新"
+        - separator "使用左右方向鍵調整尺寸" [ref=e588]
+    - generic [ref=e81]:
+      - banner [ref=e82]:
+        - generic [ref=e590]:
+          - button "🟦 信用卡帳單管理儀表板" [ref=e592] [cursor=pointer]:
+            - generic [ref=e595]: 🟦
+            - generic [ref=e596]: 信用卡帳單管理儀表板
+          - generic [ref=e598]:
+            - button "分享" [ref=e601] [cursor=pointer]:
+              - img [ref=e602]
+              - text: 分享
+              - img [ref=e605]
+            - button "已加入最愛" [ref=e608] [cursor=pointer]:
+              - img [ref=e609]
+            - button "動作" [ref=e613] [cursor=pointer]:
+              - img [ref=e614]
+      - main [ref=e84]:
+        - group [ref=e617]:
+          - generic [ref=e619]:
+            - generic [ref=e645]:
+              - generic:
+                - button "🟦 變更頁面圖示" [ref=e647] [cursor=pointer]:
+                  - generic [ref=e649]: 🟦
+                - generic [ref=e650]:
+                  - generic [ref=e651]:
+                    - button "新增驗證":
+                      - img
+                      - text: 新增驗證
+                  - button "新增留言":
+                    - img
+                    - text: 新增留言
+              - textbox [ref=e655]:
+                - /placeholder: 新頁面
+            - generic [ref=e657]:
+              - figure "信用卡帳單管理儀表板-關聯圖" [ref=e663]:
+                - textbox [ref=e672]:
+                  - /placeholder: 寫一個標題…
+              - generic [ref=e674]:
+                - generic [ref=e676]:
+                  - textbox [ref=e681]:
+                    - /placeholder: 標題 3
+                  - note [ref=e683]:
+                    - generic [ref=e684]:
+                      - button "✅ 變更標註圖示" [ref=e687] [cursor=pointer]:
+                        - generic [ref=e689]: ✅
+                      - generic [ref=e700]:
+                        - table [ref=e701]:
+                          - rowgroup [ref=e702]:
+                            - row "✅ 目前無緊急待繳項目 所有帳單均已繳清 💰 待繳總金額 NT$ 0" [ref=e703]:
+                              - cell "✅ 目前無緊急待繳項目 所有帳單均已繳清" [ref=e704]:
+                                - textbox [ref=e706]:
+                                  - /placeholder: " "
+                                  - generic [ref=e707]: ✅ 目前無緊急待繳項目
+                              - cell "💰 待繳總金額 NT$ 0" [ref=e709]:
+                                - textbox [ref=e711]:
+                                  - /placeholder: " "
+                        - generic [ref=e713]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                        - generic [ref=e714]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                        - generic [ref=e715]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                  - note [ref=e717]:
+                    - generic [ref=e718]:
+                      - button "🔵 變更標註圖示" [ref=e721] [cursor=pointer]:
+                        - generic [ref=e723]: 🔵
+                      - generic [ref=e734]:
+                        - table [ref=e735]:
+                          - rowgroup [ref=e736]:
+                            - row "📆 2026-01 ～ 03 帳單月份 待繳 0 筆 已繳 13 筆" [ref=e737]:
+                              - cell "📆 2026-01 ～ 03 帳單月份" [ref=e738]:
+                                - textbox [ref=e740]:
+                                  - /placeholder: " "
+                                  - generic [ref=e741]: 📆 2026-01 ～ 03 帳單月份
+                              - cell "待繳 0 筆" [ref=e743]:
+                                - textbox [ref=e745]:
+                                  - /placeholder: " "
+                              - cell "已繳 13 筆" [ref=e747]:
+                                - textbox [ref=e749]:
+                                  - /placeholder: " "
+                        - generic [ref=e751]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                        - generic [ref=e752]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                        - generic [ref=e753]:
+                          - generic:
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                - generic [ref=e757]:
+                  - textbox [ref=e762]:
+                    - /placeholder: 標題 3
+                  - note [ref=e764]:
+                    - generic [ref=e765]:
+                      - button "📊 變更標註圖示" [ref=e768] [cursor=pointer]:
+                        - generic [ref=e770]: 📊
+                      - generic [ref=e771]:
+                        - generic [ref=e781]:
+                          - table [ref=e782]:
+                            - rowgroup [ref=e783]:
+                              - row "📄 待繳帳單 0 ✅ 已繳帳單 13 💰 總待繳金額 NT$ 0" [ref=e784]:
+                                - cell "📄 待繳帳單 0" [ref=e785]:
+                                  - textbox [ref=e787]:
+                                    - /placeholder: " "
+                                - cell "✅ 已繳帳單 13" [ref=e789]:
+                                  - textbox [ref=e791]:
+                                    - /placeholder: " "
+                                - cell "💰 總待繳金額 NT$ 0" [ref=e793]:
+                                  - textbox [ref=e795]:
+                                    - /placeholder: " "
+                          - generic [ref=e797]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                          - generic [ref=e798]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                          - generic [ref=e799]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                        - generic [ref=e809]:
+                          - table [ref=e810]:
+                            - rowgroup [ref=e811]:
+                              - row "🥧 各銀行消費占比🥧 各銀行消費占比 🏷️ 消費分類分析🏷️ 消費分類分析" [ref=e812]:
+                                - cell "🥧 各銀行消費占比🥧 各銀行消費占比" [ref=e813]:
+                                  - textbox [ref=e815]:
+                                    - /placeholder: " "
+                                    - link "🥧 各銀行消費占比" [ref=e816] [cursor=pointer]:
+                                      - /url: /76628f4b930444dd865d7c1d41e71245?pvs=24
+                                      - generic [ref=e817]:
+                                        - img [ref=e818]
+                                        - img [ref=e820]
+                                      - generic [ref=e822]: 🥧 各銀行消費占比
+                                    - link "🥧 各銀行消費占比" [ref=e823] [cursor=pointer]:
+                                      - /url: /76628f4b930444dd865d7c1d41e71245?pvs=24
+                                      - generic [ref=e824]:
+                                        - img [ref=e825]
+                                        - img [ref=e827]
+                                      - generic [ref=e829]: 🥧 各銀行消費占比
+                                - cell "🏷️ 消費分類分析🏷️ 消費分類分析" [ref=e831]:
+                                  - textbox [ref=e833]:
+                                    - /placeholder: " "
+                                    - link "🏷️ 消費分類分析" [ref=e834] [cursor=pointer]:
+                                      - /url: /ca75a97fce7e45e7bba2feaafe5dc04a?pvs=24
+                                      - generic [ref=e835]:
+                                        - img [ref=e836]
+                                        - img [ref=e838]
+                                      - generic [ref=e840]: 🏷️ 消費分類分析
+                                    - link "🏷️ 消費分類分析" [ref=e841] [cursor=pointer]:
+                                      - /url: /ca75a97fce7e45e7bba2feaafe5dc04a?pvs=24
+                                      - generic [ref=e842]:
+                                        - img [ref=e843]
+                                        - img [ref=e845]
+                                      - generic [ref=e847]: 🏷️ 消費分類分析
+                          - generic [ref=e849]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                          - generic [ref=e850]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+                          - generic [ref=e851]:
+                            - generic:
+                              - generic:
+                                - button:
+                                  - generic:
+                                    - img
+              - separator [ref=e854]
+              - generic [ref=e856]:
+                - generic [ref=e860]:
+                  - generic [ref=e863]:
+                    - link "信用卡帳單 💳" [ref=e867] [cursor=pointer]:
+                      - /url: /simonwangtw/30c2895bb1ee811597a1e6a9b16f4e46?v=30c2895bb1ee81c5b56d000c15bffa10&pvs=18
+                      - img [ref=e869]
+                      - generic [ref=e873]: 信用卡帳單 💳
+                    - generic [ref=e875]:
+                      - link "以完整頁面打開" [ref=e877] [cursor=pointer]:
+                        - /url: /simonwangtw/76628f4b930444dd865d7c1d41e71245?v=134836cba62644e5b4d1c2461d15a331&pvs=23
+                        - img [ref=e878]
+                      - button "設定" [ref=e883] [cursor=pointer]:
+                        - img [ref=e884]
+                      - generic [ref=e888]:
+                        - button "新建" [ref=e889] [cursor=pointer]
+                        - button "更多新增選項" [ref=e890] [cursor=pointer]:
+                          - img [ref=e891]
+                  - region "$119,761金額 總計. Highcharts interactive chart." [ref=e901]:
+                    - generic [ref=e902]:
+                      - paragraph [ref=e903]: $119,761金額 總計
+                      - generic [ref=e904]: Pie chart with 8 slices.
+                    - generic [ref=e909]:
+                      - img "Interactive chart" [ref=e910]:
+                        - generic [ref=e915] [cursor=pointer]:
+                          - img "玉山銀行, 24,883. 銀行名稱." [ref=e916]
+                          - img "永豐銀行, 49,077. 銀行名稱." [ref=e917]
+                          - img "星展銀行, 7,778. 銀行名稱." [ref=e918]
+                          - img "新光銀行, 1,484. 銀行名稱." [ref=e919]
+                          - img "國泰世華, 6,080. 銀行名稱." [ref=e920]
+                          - img "台新銀行, 3,925. 銀行名稱." [ref=e921]
+                          - img "台北富邦, 22,592. 銀行名稱." [ref=e922]
+                          - img "中國信託, 11,792. 銀行名稱." [ref=e923]
+                      - generic [ref=e944]:
+                        - region "Axis zoom"
+                        - region "Toggle series visibility, $119,761金額 總計":
+                          - list:
+                            - listitem:
+                              - button "Show 玉山銀行" [pressed] [ref=e945] [cursor=pointer]
+                            - listitem:
+                              - button "Show 永豐銀行" [pressed] [ref=e946] [cursor=pointer]
+                            - listitem:
+                              - button "Show 星展銀行" [pressed] [ref=e947] [cursor=pointer]
+                            - listitem:
+                              - button "Show 新光銀行" [pressed] [ref=e948] [cursor=pointer]
+                            - listitem:
+                              - button "Show 國泰世華" [pressed] [ref=e949] [cursor=pointer]
+                            - listitem:
+                              - button "Show 台新銀行" [pressed] [ref=e950] [cursor=pointer]
+                            - listitem:
+                              - button "Show 台北富邦" [pressed] [ref=e951] [cursor=pointer]
+                            - listitem:
+                              - button "Show 中國信託" [pressed] [ref=e952] [cursor=pointer]
+                      - generic [ref=e954]:
+                        - generic [ref=e955]: $119,761
+                        - generic [ref=e956]: 金額 總計
+                      - generic [ref=e957] [cursor=pointer]: 玉山銀行
+                      - generic [ref=e958] [cursor=pointer]: 永豐銀行
+                      - generic [ref=e959] [cursor=pointer]: 星展銀行
+                      - generic [ref=e960] [cursor=pointer]: 新光銀行
+                      - generic [ref=e961] [cursor=pointer]: 國泰世華
+                      - generic [ref=e962] [cursor=pointer]: 台新銀行
+                      - generic [ref=e963] [cursor=pointer]: 台北富邦
+                      - generic [ref=e964] [cursor=pointer]: 中國信託
+                    - generic [ref=e966]: End of interactive chart.
+                - generic [ref=e972]:
+                  - generic [ref=e975]:
+                    - link "📝 消費明細" [ref=e979] [cursor=pointer]:
+                      - /url: /simonwangtw/8ca18a2a448b48f89bfa75e2f63509a7?v=5aa46256be5740a697b9dd9079dd34fa&pvs=18
+                      - generic [ref=e980]:
+                        - generic [ref=e983]: 📝
+                        - img [ref=e985]
+                      - generic [ref=e989]: 消費明細
+                    - generic [ref=e991]:
+                      - link "以完整頁面打開" [ref=e993] [cursor=pointer]:
+                        - /url: /simonwangtw/ca75a97fce7e45e7bba2feaafe5dc04a?v=6bd0bfce0f7946e69a58ab7ff71f6af3&pvs=23
+                        - img [ref=e994]
+                      - button "設定" [ref=e999] [cursor=pointer]:
+                        - img [ref=e1000]
+                      - generic [ref=e1004]:
+                        - button "新建" [ref=e1005] [cursor=pointer]
+                        - button "更多新增選項" [ref=e1006] [cursor=pointer]:
+                          - img [ref=e1007]
+                  - region "$116,415💵 金額 總計. Highcharts interactive chart." [ref=e1017]:
+                    - generic [ref=e1018]:
+                      - paragraph [ref=e1019]: $116,415💵 金額 總計
+                      - generic [ref=e1020]: Pie chart with 7 slices.
+                    - generic [ref=e1025]:
+                      - img "Interactive chart" [ref=e1026]:
+                        - generic [ref=e1031] [cursor=pointer]:
+                          - img "分期, 14,281. 🏷️ 類別." [ref=e1032]
+                          - img "🍽️ 餐飲, 2,025. 🏷️ 類別." [ref=e1033]
+                          - img "🎬 娛樂, 23,356. 🏷️ 類別." [ref=e1034]
+                          - img "🏠 生活, 32,711. 🏷️ 類別." [ref=e1035]
+                          - img "💊 醫療, 150. 🏷️ 類別." [ref=e1036]
+                          - img "🛒 購物, 1,311. 🏷️ 類別." [ref=e1037]
+                          - img "🤖 AI/科技, 42,581. 🏷️ 類別." [ref=e1038]
+                      - generic [ref=e1057]:
+                        - region "Axis zoom"
+                        - region "Toggle series visibility, $116,415💵 金額 總計":
+                          - list:
+                            - listitem:
+                              - button "Show 分期" [pressed] [ref=e1058] [cursor=pointer]
+                            - listitem:
+                              - button "Show 🍽️ 餐飲" [pressed] [ref=e1059] [cursor=pointer]
+                            - listitem:
+                              - button "Show 🎬 娛樂" [pressed] [ref=e1060] [cursor=pointer]
+                            - listitem:
+                              - button "Show 🏠 生活" [pressed] [ref=e1061] [cursor=pointer]
+                            - listitem:
+                              - button "Show 💊 醫療" [pressed] [ref=e1062] [cursor=pointer]
+                            - listitem:
+                              - button "Show 🛒 購物" [pressed] [ref=e1063] [cursor=pointer]
+                            - listitem:
+                              - button "Show 🤖 AI/科技" [pressed] [ref=e1064] [cursor=pointer]
+                      - generic [ref=e1066]:
+                        - generic [ref=e1067]: $116,415
+                        - generic [ref=e1068]: 💵 金額 總計
+                      - generic [ref=e1069] [cursor=pointer]: 分期
+                      - generic [ref=e1070] [cursor=pointer]: 🍽️ 餐飲
+                      - generic [ref=e1071] [cursor=pointer]: 🎬 娛樂
+                      - generic [ref=e1072] [cursor=pointer]: 🏠 生活
+                      - generic [ref=e1073] [cursor=pointer]: 💊 醫療
+                      - generic [ref=e1074] [cursor=pointer]: 🛒 購物
+                      - generic [ref=e1075] [cursor=pointer]: 🤖 AI/科技
+                    - generic [ref=e1077]: End of interactive chart.
+              - separator [ref=e1080]
+              - textbox [ref=e1085]:
+                - /placeholder: 標題 3
+              - generic [ref=e1095]:
+                - table [ref=e1096]:
+                  - rowgroup [ref=e1097]:
+                    - row "銀行 帳單月份 實繳金額 實際繳款日 狀態" [ref=e1098]:
+                      - columnheader "銀行" [ref=e1099]:
+                        - textbox [ref=e1101]:
+                          - /placeholder: " "
+                      - columnheader "帳單月份" [ref=e1103]:
+                        - textbox [ref=e1105]:
+                          - /placeholder: " "
+                      - columnheader "實繳金額" [ref=e1107]:
+                        - textbox [ref=e1109]:
+                          - /placeholder: " "
+                      - columnheader "實際繳款日" [ref=e1111]:
+                        - textbox [ref=e1113]:
+                          - /placeholder: " "
+                      - columnheader "狀態" [ref=e1115]:
+                        - textbox [ref=e1117]:
+                          - /placeholder: " "
+                    - row "玉山銀行 2026-01 NT$ 2,546 2026-01-21 ✅ 已繳" [ref=e1119]:
+                      - cell "玉山銀行" [ref=e1120]:
+                        - textbox [ref=e1122]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1124]:
+                        - textbox [ref=e1126]:
+                          - /placeholder: " "
+                      - cell "NT$ 2,546" [ref=e1128]:
+                        - textbox [ref=e1130]:
+                          - /placeholder: " "
+                      - cell "2026-01-21" [ref=e1132]:
+                        - textbox [ref=e1134]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1136]:
+                        - textbox [ref=e1138]:
+                          - /placeholder: " "
+                    - row "台北富邦 2026-01 NT$ 2,215 2026-01-21 ✅ 已繳" [ref=e1140]:
+                      - cell "台北富邦" [ref=e1141]:
+                        - textbox [ref=e1143]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1145]:
+                        - textbox [ref=e1147]:
+                          - /placeholder: " "
+                      - cell "NT$ 2,215" [ref=e1149]:
+                        - textbox [ref=e1151]:
+                          - /placeholder: " "
+                      - cell "2026-01-21" [ref=e1153]:
+                        - textbox [ref=e1155]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1157]:
+                        - textbox [ref=e1159]:
+                          - /placeholder: " "
+                    - row "國泰世華 2026-01 NT$ 10,586 2026-01-12 ✅ 已繳" [ref=e1161]:
+                      - cell "國泰世華" [ref=e1162]:
+                        - textbox [ref=e1164]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1166]:
+                        - textbox [ref=e1168]:
+                          - /placeholder: " "
+                      - cell "NT$ 10,586" [ref=e1170]:
+                        - textbox [ref=e1172]:
+                          - /placeholder: " "
+                      - cell "2026-01-12" [ref=e1174]:
+                        - textbox [ref=e1176]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1178]:
+                        - textbox [ref=e1180]:
+                          - /placeholder: " "
+                    - row "新光銀行 2026-01 NT$ 1,418 2026-01-26 ✅ 已繳" [ref=e1182]:
+                      - cell "新光銀行" [ref=e1183]:
+                        - textbox [ref=e1185]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1187]:
+                        - textbox [ref=e1189]:
+                          - /placeholder: " "
+                      - cell "NT$ 1,418" [ref=e1191]:
+                        - textbox [ref=e1193]:
+                          - /placeholder: " "
+                      - cell "2026-01-26" [ref=e1195]:
+                        - textbox [ref=e1197]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1199]:
+                        - textbox [ref=e1201]:
+                          - /placeholder: " "
+                    - row "星展銀行 2026-01 NT$ 3,198 2026-01-28 ✅ 已繳" [ref=e1203]:
+                      - cell "星展銀行" [ref=e1204]:
+                        - textbox [ref=e1206]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1208]:
+                        - textbox [ref=e1210]:
+                          - /placeholder: " "
+                      - cell "NT$ 3,198" [ref=e1212]:
+                        - textbox [ref=e1214]:
+                          - /placeholder: " "
+                      - cell "2026-01-28" [ref=e1216]:
+                        - textbox [ref=e1218]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1220]:
+                        - textbox [ref=e1222]:
+                          - /placeholder: " "
+                    - row "永豐銀行 2026-01 NT$ 12,102 2026-01-30 ✅ 已繳（含兩筆：10,130＋1,972）" [ref=e1224]:
+                      - cell "永豐銀行" [ref=e1225]:
+                        - textbox [ref=e1227]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1229]:
+                        - textbox [ref=e1231]:
+                          - /placeholder: " "
+                      - cell "NT$ 12,102" [ref=e1233]:
+                        - textbox [ref=e1235]:
+                          - /placeholder: " "
+                      - cell "2026-01-30" [ref=e1237]:
+                        - textbox [ref=e1239]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳（含兩筆：10,130＋1,972）" [ref=e1241]:
+                        - textbox [ref=e1243]:
+                          - /placeholder: " "
+                    - row "台新銀行 2026-01 NT$ 3,925 2026-01-19 ✅ 退款入帳（溢付款退還）" [ref=e1245]:
+                      - cell "台新銀行" [ref=e1246]:
+                        - textbox [ref=e1248]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1250]:
+                        - textbox [ref=e1252]:
+                          - /placeholder: " "
+                      - cell "NT$ 3,925" [ref=e1254]:
+                        - textbox [ref=e1256]:
+                          - /placeholder: " "
+                      - cell "2026-01-19" [ref=e1258]:
+                        - textbox [ref=e1260]:
+                          - /placeholder: " "
+                      - cell "✅ 退款入帳（溢付款退還）" [ref=e1262]:
+                        - textbox [ref=e1264]:
+                          - /placeholder: " "
+                    - row "中國信託 2026-01 NT$ 33,460 2026-01-01 ✅ 已繳" [ref=e1266]:
+                      - cell "中國信託" [ref=e1267]:
+                        - textbox [ref=e1269]:
+                          - /placeholder: " "
+                      - cell "2026-01" [ref=e1271]:
+                        - textbox [ref=e1273]:
+                          - /placeholder: " "
+                      - cell "NT$ 33,460" [ref=e1275]:
+                        - textbox [ref=e1277]:
+                          - /placeholder: " "
+                      - cell "2026-01-01" [ref=e1279]:
+                        - textbox [ref=e1281]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1283]:
+                        - textbox [ref=e1285]:
+                          - /placeholder: " "
+                    - row "永豐銀行 2026-02 NT$ 6,090 2026-02-11 ✅ 已繳" [ref=e1287]:
+                      - cell "永豐銀行" [ref=e1288]:
+                        - textbox [ref=e1290]:
+                          - /placeholder: " "
+                      - cell "2026-02" [ref=e1292]:
+                        - textbox [ref=e1294]:
+                          - /placeholder: " "
+                      - cell "NT$ 6,090" [ref=e1296]:
+                        - textbox [ref=e1298]:
+                          - /placeholder: " "
+                      - cell "2026-02-11" [ref=e1300]:
+                        - textbox [ref=e1302]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1304]:
+                        - textbox [ref=e1306]:
+                          - /placeholder: " "
+                    - row "中國信託 2026-02 NT$ 1,600 2026-02-11 ✅ 已繳" [ref=e1308]:
+                      - cell "中國信託" [ref=e1309]:
+                        - textbox [ref=e1311]:
+                          - /placeholder: " "
+                      - cell "2026-02" [ref=e1313]:
+                        - textbox [ref=e1315]:
+                          - /placeholder: " "
+                      - cell "NT$ 1,600" [ref=e1317]:
+                        - textbox [ref=e1319]:
+                          - /placeholder: " "
+                      - cell "2026-02-11" [ref=e1321]:
+                        - textbox [ref=e1323]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1325]:
+                        - textbox [ref=e1327]:
+                          - /placeholder: " "
+                    - row "台北富邦 2026-02 NT$ 3,278 2026-02-25 ✅ 已繳" [ref=e1329]:
+                      - cell "台北富邦" [ref=e1330]:
+                        - textbox [ref=e1332]:
+                          - /placeholder: " "
+                      - cell "2026-02" [ref=e1334]:
+                        - textbox [ref=e1336]:
+                          - /placeholder: " "
+                      - cell "NT$ 3,278" [ref=e1338]:
+                        - textbox [ref=e1340]:
+                          - /placeholder: " "
+                      - cell "2026-02-25" [ref=e1342]:
+                        - textbox [ref=e1344]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1346]:
+                        - textbox [ref=e1348]:
+                          - /placeholder: " "
+                    - row "星展銀行 2026-02 NT$ 4,580 2026-03-02 ✅ 已繳" [ref=e1350]:
+                      - cell "星展銀行" [ref=e1351]:
+                        - textbox [ref=e1353]:
+                          - /placeholder: " "
+                      - cell "2026-02" [ref=e1355]:
+                        - textbox [ref=e1357]:
+                          - /placeholder: " "
+                      - cell "NT$ 4,580" [ref=e1359]:
+                        - textbox [ref=e1361]:
+                          - /placeholder: " "
+                      - cell "2026-03-02" [ref=e1363]:
+                        - textbox [ref=e1365]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1367]:
+                        - textbox [ref=e1369]:
+                          - /placeholder: " "
+                    - row "永豐銀行 2026-03 NT$ 115 2026-03-09 ✅ 已繳" [ref=e1371]:
+                      - cell "永豐銀行" [ref=e1372]:
+                        - textbox [ref=e1374]:
+                          - /placeholder: " "
+                      - cell "2026-03" [ref=e1376]:
+                        - textbox [ref=e1378]:
+                          - /placeholder: " "
+                      - cell "NT$ 115" [ref=e1380]:
+                        - textbox [ref=e1382]:
+                          - /placeholder: " "
+                      - cell "2026-03-09" [ref=e1384]:
+                        - textbox [ref=e1386]:
+                          - /placeholder: " "
+                      - cell "✅ 已繳" [ref=e1388]:
+                        - textbox [ref=e1390]:
+                          - /placeholder: " "
+                - generic [ref=e1392]:
+                  - generic:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                - generic [ref=e1393]:
+                  - generic:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                - generic [ref=e1394]:
+                  - generic:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+              - separator [ref=e1397]
+              - generic [ref=e1399]:
+                - generic [ref=e1401]:
+                  - textbox [ref=e1406]:
+                    - /placeholder: 標題 3
+                  - generic [ref=e1408]:
+                    - generic [ref=e1411]:
+                      - link "信用卡帳單 💳" [ref=e1415] [cursor=pointer]:
+                        - /url: /simonwangtw/30c2895bb1ee811597a1e6a9b16f4e46?v=30c2895bb1ee81c5b56d000c15bffa10&pvs=18
+                        - img [ref=e1417]
+                        - generic [ref=e1421]: 信用卡帳單 💳
+                      - generic [ref=e1423]:
+                        - link "以完整頁面打開" [ref=e1425] [cursor=pointer]:
+                          - /url: /simonwangtw/0fb99b5e9cb349afa418ace6e041aa4a?v=d0231279932542639869e58cb65a0c3e&pvs=23
+                          - img [ref=e1426]
+                        - button "設定" [ref=e1431] [cursor=pointer]:
+                          - img [ref=e1432]
+                        - generic [ref=e1436]:
+                          - button "新建" [ref=e1437] [cursor=pointer]
+                          - button "更多新增選項" [ref=e1438] [cursor=pointer]:
+                            - img [ref=e1439]
+                    - generic [ref=e1447]:
+                      - generic [ref=e1449]:
+                        - generic [ref=e1450]:
+                          - generic [ref=e1451]: 2026年3月
+                          - button "在日曆中管理" [ref=e1453] [cursor=pointer]:
+                            - img [ref=e1454]
+                            - text: 在日曆中管理
+                          - button "上個月" [ref=e1456] [cursor=pointer]:
+                            - img [ref=e1457]
+                          - button "今天" [ref=e1459] [cursor=pointer]
+                          - button "下個月" [ref=e1460] [cursor=pointer]:
+                            - img [ref=e1461]
+                        - generic [ref=e1463]:
+                          - generic [ref=e1464]: 週一
+                          - generic [ref=e1465]: 週二
+                          - generic [ref=e1466]: 週三
+                          - generic [ref=e1467]: 週四
+                          - generic [ref=e1468]: 週五
+                          - generic [ref=e1469]: 週六
+                          - generic [ref=e1470]: 週日
+                      - generic [ref=e1471]:
+                        - generic [ref=e1472]:
+                          - generic [ref=e1474]: "23"
+                          - generic [ref=e1476]: "24"
+                          - generic [ref=e1478]: "25"
+                          - generic [ref=e1480]: "26"
+                          - generic [ref=e1482]: "27"
+                          - generic [ref=e1484]: "28"
+                          - generic [ref=e1486]: 3月1日
+                          - link "台北富邦 2026年02月帳單" [ref=e1488] [cursor=pointer]:
+                            - /url: /simonwangtw/2026-02-31e2895bb1ee81de8b4afd0f6bca602c?pvs=25
+                            - generic [ref=e1490]: 台北富邦 2026年02月帳單
+                          - link "玉山銀行 2026年01月帳單" [ref=e1494] [cursor=pointer]:
+                            - /url: /simonwangtw/2026-01-31e2895bb1ee81d98555e1c3e1fba491?pvs=25
+                            - generic [ref=e1496]: 玉山銀行 2026年01月帳單
+                          - link "星展銀行 2026年02月帳單" [ref=e1500] [cursor=pointer]:
+                            - /url: /simonwangtw/2026-02-31e2895bb1ee81e19531d0229001656f?pvs=25
+                            - generic [ref=e1502]: 星展銀行 2026年02月帳單
+                        - generic [ref=e1505]:
+                          - generic [ref=e1507]: "2"
+                          - generic [ref=e1509]: "3"
+                          - generic [ref=e1511]: "4"
+                          - generic [ref=e1513]: "5"
+                          - generic [ref=e1515]: "6"
+                          - generic [ref=e1517]: "7"
+                          - generic [ref=e1519]: "8"
+                        - generic [ref=e1520]:
+                          - generic [ref=e1522]: "9"
+                          - generic [ref=e1524]: "10"
+                          - generic [ref=e1526]: "11"
+                          - generic [ref=e1528]: "12"
+                          - generic [ref=e1530]: "13"
+                          - generic [ref=e1532]: "14"
+                          - generic [ref=e1534]: "15"
+                          - link "永豐銀行 2026年03月帳單" [ref=e1536] [cursor=pointer]:
+                            - /url: /simonwangtw/2026-03-3172895bb1ee814d921cdbaf5a280dc5?pvs=25
+                            - generic [ref=e1538]: 永豐銀行 2026年03月帳單
+                        - generic [ref=e1541]:
+                          - generic [ref=e1543]: "16"
+                          - generic [ref=e1545]: "17"
+                          - generic [ref=e1547]: "18"
+                          - generic [ref=e1549]: "19"
+                          - generic [ref=e1551]: "20"
+                          - generic [ref=e1553]: "21"
+                          - generic [ref=e1555]: "22"
+                        - generic [ref=e1556]:
+                          - generic [ref=e1558]: "23"
+                          - generic [ref=e1560]: "24"
+                          - generic [ref=e1562]: "25"
+                          - generic [ref=e1564]: "26"
+                          - generic [ref=e1566]: "27"
+                          - generic [ref=e1568]: "28"
+                          - generic [ref=e1570]: "29"
+                        - generic [ref=e1571]:
+                          - generic [ref=e1573]: "30"
+                          - generic [ref=e1575]: "31"
+                          - generic [ref=e1577]: 4月1日
+                          - generic [ref=e1579]: "2"
+                          - generic [ref=e1581]: "3"
+                          - generic [ref=e1583]: "4"
+                          - generic [ref=e1585]: "5"
+                - generic [ref=e1589]:
+                  - textbox [ref=e1594]:
+                    - /placeholder: 標題 3
+                  - generic [ref=e1596]:
+                    - generic [ref=e1599]:
+                      - link "📝 消費明細" [ref=e1603] [cursor=pointer]:
+                        - /url: /simonwangtw/8ca18a2a448b48f89bfa75e2f63509a7?v=5aa46256be5740a697b9dd9079dd34fa&pvs=18
+                        - generic [ref=e1604]:
+                          - generic [ref=e1607]: 📝
+                          - img [ref=e1609]
+                        - generic [ref=e1613]: 消費明細
+                      - generic [ref=e1615]:
+                        - link "以完整頁面打開" [ref=e1617] [cursor=pointer]:
+                          - /url: /simonwangtw/1cadd63ffdd54d9e80133ec18d6c68da?v=776d1bcb98534d9fba6bd9d62fc0abf6&pvs=23
+                          - img [ref=e1618]
+                        - button "設定" [ref=e1623] [cursor=pointer]:
+                          - img [ref=e1624]
+                        - generic [ref=e1628]:
+                          - button "新建" [ref=e1629] [cursor=pointer]
+                          - button "更多新增選項" [ref=e1630] [cursor=pointer]:
+                            - img [ref=e1631]
+                    - region "Chart. Highcharts interactive chart." [ref=e1641]:
+                      - generic [ref=e1642]:
+                        - paragraph [ref=e1643]: Chart
+                        - generic [ref=e1644]: Chart with 2 data points.
+                        - generic [ref=e1645]: The chart has 1 X axis displaying Time. Data ranges from 2026-01-01 00:00:00 to 2026-02-01 00:00:00.
+                        - generic [ref=e1646]: The chart has 1 Y axis displaying values. Data ranges from 4888 to 111527.
+                      - generic [ref=e1651]:
+                        - img "Interactive chart" [ref=e1652]:
+                          - generic [ref=e1663] [cursor=pointer]:
+                            - img "1767196800000, 111,527. 📆 帳單月份." [ref=e1664]
+                            - img "1769875200000, 4,888. 📆 帳單月份." [ref=e1665]
+                          - generic [ref=e1666] [cursor=pointer]:
+                            - generic [ref=e1668]: $11萬
+                            - generic [ref=e1670]: $4888
+                          - generic [ref=e1677]:
+                            - generic [ref=e1678]: $0
+                            - generic [ref=e1679]: $3萬
+                            - generic [ref=e1680]: $6萬
+                            - generic [ref=e1681]: $9萬
+                            - generic [ref=e1682]: $12萬
+                        - generic [ref=e1683]:
+                          - region "Axis zoom"
+                          - region "Toggle series visibility, Chart":
+                            - list:
+                              - listitem:
+                                - button "Show 📆 帳單月份" [pressed] [ref=e1684] [cursor=pointer]
+                        - generic [ref=e1685] [cursor=pointer]: 📆 帳單月份
+                        - generic [ref=e1686]: 2026年1月
+                        - generic [ref=e1687]: 2026年2月
+                      - generic [ref=e1689]: End of interactive chart.
+              - separator [ref=e1692]
+              - textbox [ref=e1697]:
+                - /placeholder: 標題 3
+              - generic [ref=e1699]:
+                - note [ref=e1703]:
+                  - generic [ref=e1704]:
+                    - button "💳 變更標註圖示" [ref=e1707] [cursor=pointer]:
+                      - generic [ref=e1709]: 💳
+                    - textbox [ref=e1716]:
+                      - /placeholder: " "
+                      - link "💳 信用卡帳單" [ref=e1717] [cursor=pointer]:
+                        - /url: https://www.notion.so/30c2895bb1ee811597a1e6a9b16f4e46
+                        - generic [ref=e1718]: 💳 信用卡帳單
+                - note [ref=e1724]:
+                  - generic [ref=e1725]:
+                    - button "📝 變更標註圖示" [ref=e1728] [cursor=pointer]:
+                      - generic [ref=e1730]: 📝
+                    - textbox [ref=e1737]:
+                      - /placeholder: " "
+                      - link "📝 刷卡明細" [ref=e1738] [cursor=pointer]:
+                        - /url: https://www.notion.so/8ca18a2a448b48f89bfa75e2f63509a7
+                        - generic [ref=e1739]: 📝 刷卡明細
+              - note [ref=e1741]:
+                - generic [ref=e1742]:
+                  - button "ℹ️ 變更標註圖示" [ref=e1745] [cursor=pointer]:
+                    - generic [ref=e1747]: ℹ️
+                  - textbox [ref=e1754]:
+                    - /placeholder: " "
+              - separator [ref=e1757]
+              - textbox [ref=e1762]:
+                - /placeholder: 標題 3
+              - link "信用卡帳單 💳" [ref=e1766] [cursor=pointer]:
+                - /url: /simonwangtw/30c2895bb1ee811597a1e6a9b16f4e46?v=30c2895bb1ee81c5b56d000c15bffa10&pvs=25
+                - generic [ref=e1769]:
+                  - button [ref=e1772]:
+                    - img [ref=e1773]
+                  - generic [ref=e1776]: 信用卡帳單 💳
+              - link "📝 消費明細" [ref=e1780] [cursor=pointer]:
+                - /url: /simonwangtw/8ca18a2a448b48f89bfa75e2f63509a7?v=5aa46256be5740a697b9dd9079dd34fa&pvs=25
+                - generic [ref=e1783]:
+                  - button "📝" [ref=e1786]:
+                    - generic [ref=e1788]: 📝
+                  - generic [ref=e1790]: 消費明細
+      - region [ref=e86]
+    - button "ai" [ref=e1796] [cursor=pointer]:
+      - generic [ref=e1798]:
+        - img "Notion AI face" [ref=e1802]
+        - img "scarf accessory"
+  - dialog [ref=e1805]:
+    - generic [ref=e1806]:
+      - generic [ref=e1807]: 要在 Notion 桌面版應用程式中打開嗎？
+      - button "關閉" [ref=e1808] [cursor=pointer]:
+        - img [ref=e1809]
+    - button "沒有應用程式嗎？歡迎下載" [ref=e1812] [cursor=pointer]:
+      - img [ref=e1813]
+      - generic [ref=e1816]: 沒有應用程式嗎？歡迎下載
+    - generic [ref=e1817]:
+      - generic [ref=e1818]:
+        - generic [ref=e1819]:
+          - img [ref=e1821]
+          - checkbox [checked] [ref=e1823] [cursor=pointer]
+        - generic [ref=e1824]: 一律在應用程式中開啟
+      - button "在應用程式中開啟" [ref=e1825] [cursor=pointer]
+  - status [ref=e87]
+  - alert [ref=e88]
