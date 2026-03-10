@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- 服務名稱 -->
+    <key>Label</key>
+    <string>com.simon.financial-assistant.reminders</string>
+    
+    <!-- 執行腳本 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/scripts/run_reminders.sh</string>
+    </array>
+    
+    <!-- 工作目錄 -->
+    <key>WorkingDirectory</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant</string>
+    
+    <!-- 執行時間（每日 08:00 檢查提醒）-->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    
+    <!-- 環境變數 -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+    
+    <!-- 日誌 -->
+    <key>StandardOutPath</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/logs/reminders_stdout.log</string>
+    
+    <key>StandardErrorPath</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/logs/reminders_stderr.log</string>
+    
+    <key>KeepAlive</key>
+    <false/>
+    
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

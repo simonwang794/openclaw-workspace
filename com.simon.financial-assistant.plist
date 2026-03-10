@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- 服務名稱 -->
+    <key>Label</key>
+    <string>com.simon.financial-assistant</string>
+    
+    <!-- 執行的程式 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/venv/bin/python3</string>
+        <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/main.py</string>
+        <string>scan</string>
+    </array>
+    
+    <!-- 工作目錄 -->
+    <key>WorkingDirectory</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant</string>
+    
+    <!-- 執行時間（每日 09:10 和 21:00）-->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>9</integer>
+            <key>Minute</key>
+            <integer>10</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>21</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
+    
+    <!-- 環境變數 -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/venv/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <key>PYTHONPATH</key>
+        <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant</string>
+    </dict>
+    
+    <!-- 標準輸出（日誌） -->
+    <key>StandardOutPath</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/logs/stdout.log</string>
+    
+    <!-- 標準錯誤輸出 -->
+    <key>StandardErrorPath</key>
+    <string>/Users/simon/.gemini/antigravity/scratch/financial_assistant/logs/stderr.log</string>
+    
+    <!-- 失敗後自動重啟 -->
+    <key>KeepAlive</key>
+    <false/>
+    
+    <!-- 執行失敗後重試 -->
+    <key>RunAtLoad</key>
+    <false/>
+    
+    <!-- 超時設定（30 分鐘） -->
+    <key>SoftResourceLimits</key>
+    <dict>
+        <key>CPU</key>
+        <integer>1800</integer>
+    </dict>
+</dict>
+</plist>
